@@ -1,0 +1,7 @@
+hello everyone here me performing my practicle sample.
+text file.
+
+name=allex
+class=te it
+roll=0007
+objective=performe the practicle of today.
